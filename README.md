@@ -1,8 +1,8 @@
-The helper functions python script can be called using the following code snipper from any python application.
+The helper functions python script can be called using the following code snippet from any python application.
 
 This code will create a helper_functions.py script on your folder with the wb permissions.
 
-You may change the name fro with open line if you need a different name on your folder.
+You may change the name of the created file from with open line if you need a different name on your folder.
 
 import requests
 
